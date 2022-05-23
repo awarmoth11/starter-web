@@ -5,6 +5,10 @@ showing how to use Git and Github together.
 
 ## Introduction
 
+This is example ois to show different parts
+of the Git repository and various commands 
+.using web project
+
 ## Purpose
 
 ## Deployment
