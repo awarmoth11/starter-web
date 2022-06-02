@@ -28,4 +28,4 @@ Please fork this repository and then issue Pull Request for
 review.
 
 ### Copyright 2014
-Blah
+2014 Git Training All Rights Reserved
